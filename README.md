@@ -1,5 +1,5 @@
 # hello-world
-This is my first project, just trying to make sense of GitHub. Apparently is a web hosting platform for version control and collaboration. It let you and other work together in different projects from anywhere.
+This is my first project, just trying to make sense of GitHub. Apparently is a web hosting platform for version control and collaboration. It lets you and other work together in different projects from anywhere.
 In the future I would like to share this doc with my friend Juan, so we can work together in our first project.
 
 About me:
