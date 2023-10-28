@@ -1,0 +1,4 @@
+We will fix SSP-13 using these steps:
+1. Step A
+2. Step B
+3. Reboot system
